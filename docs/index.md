@@ -1,16 +1,8 @@
-# Welcome to My GitHub Page!
+---
+layout: home
+title: Welcome
+---
 
-This site is built with [GitHub Pages](https://pages.github.com/) and Markdown.
+# Welcome to My Jekyll Site
 
-## Features
-
-- Easy formatting
-- Code blocks
-- Lists
-- Images
-
-## Example Code
-
-```python
-print("Hello, world!")
-```
+This page uses Jekyll layouts and Markdown.
